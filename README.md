@@ -36,11 +36,6 @@
   <img src="https://img.shields.io/badge/Metasploit-1F4BA9?logo=metasploit&logoColor=white"/>
 </p>
 
-
-<!-- Tagline -->
-<p align="center"><code>echo &quot;exploit&quot; &gt; reality</code></p>
-
-
 <!-- Visitor badge -->
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=OwariNoAsta_profile&left_color=gray&right_color=lightgreen" alt="" />
